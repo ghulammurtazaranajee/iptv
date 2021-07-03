@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1,(TN) Tunisie Nat 1 TNT
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3932
 #EXTINF:-1,(TN) Tunisie Nat 1 TV
@@ -196,7 +196,7 @@ http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5946
 #EXTINF:-1,(AR) OSN Kids Zone TV
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5384
 #EXTINF:-1,(AR) OSN Alfa Alyawm
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4982#EXTINF:-1,(MA) Al Maghribia Ikbaria
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4982
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/1306
 #EXTINF:-1,(MA) Medi 1 TV
 http://hbox.cdnss.me:80/tolgax1x/tolgax1x/1307
